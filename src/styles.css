@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  background-color: #00c3ff;
+}
+canvas {
+  border: 5px solid black;
+}
